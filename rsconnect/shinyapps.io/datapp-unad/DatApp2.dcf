@@ -1,0 +1,13 @@
+name: DatApp2
+title: DatApp2
+username:
+account: datapp-unad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7686574
+bundleId: 6565187
+url: https://datapp-unad.shinyapps.io/DatApp2/
+when: 1669684355.69836
+lastSyncTime: 1669684355.69838
+asMultiple: FALSE
+asStatic: FALSE
